@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "84154643940",
+    "project_id": "appchat-f2625",
+    "storage_bucket": "appchat-f2625.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:84154643940:android:a433a03f3627908d3003f1",
+        "android_client_info": {
+          "package_name": "com.example.appchat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgT9MxW-BzbCKFu8DMeQBpGf5BPhxQFDw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:84154643940:android:f0325e78eb6b1f923003f1",
+        "android_client_info": {
+          "package_name": "com.example.chat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgT9MxW-BzbCKFu8DMeQBpGf5BPhxQFDw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
